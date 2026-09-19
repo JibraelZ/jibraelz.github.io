@@ -1,0 +1,50 @@
+p {
+  color: red;
+  font-size: 10px;
+  font-family: "Audiowide", sans-serif;
+}
+
+h1, h2 {
+  color: rgb(20, 147, 128);
+  font-family: "Audiowide", sans-serif;
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 25px;
+  line-height: 7;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: white;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0 500px 500px 500px;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
